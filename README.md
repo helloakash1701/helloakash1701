@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Hi there. I’m Akash👋<br>🌱 I’m addicted to learning and growing everyday<br>🌍 I'm currently sharing a little bit of my knowledge to the world<br>📙 I have a keen interest in DevOps<br>🔍 How to find me?<br>https://twitter.com/AkashMi65118169<br>https://www.linkedin.com/in/akash-m-621a8b1b6/
+⚡Hi there. I’m Akash👋<br>🌱 I’m addicted to learning and growing everyday<br>🌍 I'm currently sharing a little bit of my knowledge to the world<br>📙 I have a keen interest in Web Development and DevOps<br>🔍 How to find me?<br>https://twitter.com/AkashMi65118169<br>https://www.linkedin.com/in/akash-m-621a8b1b6/
 
 
 ## 🌐 Socials:
