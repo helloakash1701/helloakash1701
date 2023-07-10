@@ -1,5 +1,5 @@
 # 💫 Howdy, how are you doing 
-<a href="https://app.daily.dev/akashmishra"><img src="https://api.daily.dev/devcards/ada9a0fbc91e40758df8be8008457208.png?r=xgp" width="400" alt="Akash Mishra's Dev Card"/></a>
+<div><a href="https://app.daily.dev/akashmishra"><img src="https://api.daily.dev/devcards/ada9a0fbc91e40758df8be8008457208.png?r=xgp" width="400" alt="Akash Mishra's Dev Card"/></a></div>
 ⚡Hi there. I’m Akash👋<br>🌱 I’m addicted to learning and growing everyday<br>🌍 I'm currently sharing a little bit of my knowledge to the world<br>📙 I have a keen interest in Web Development and DevOps<br>🔍 How to find me? 
 
 
